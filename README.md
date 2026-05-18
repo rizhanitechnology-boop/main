@@ -1,6 +1,3 @@
-# Web-profesional
-rizhani.technology
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
